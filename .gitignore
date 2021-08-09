@@ -1,0 +1,9 @@
+__pycache__
+models
+wordvectors
+tokens
+NRC-Emotion-Lexicon
+twitter_secrets.py
+trump_tweets.json
+sentiment_dict.txt
+trump_tweets_sentiment.txt
